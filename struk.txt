@@ -1,0 +1,22 @@
+=============================================
+2021-04-24(17:17:28)
+
+	*Kode Barang	    	  : 1001
+	   *Jumlah Barang	  : 2
+
+	*Kode Barang	    	  : 1007
+	   *Jumlah Barang	  : 3
+
+		*Harga      	  : 869000
+		*Bayar      	  : 1000000
+		*Kembalian  	  : 131000
+=============================================
+2022-01-18(17:04:33)
+
+	*Kode Barang	    	  : 1010
+	   *Jumlah Barang	  : 2
+	   *Jumlah Barang	  : 2
+
+	*Kode Barang	    	  : 1025
+	   *Jumlah Barang	  : 3
+	   *Jumlah Barang	  : 3

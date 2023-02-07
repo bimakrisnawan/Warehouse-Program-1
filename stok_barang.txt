@@ -1,0 +1,93 @@
+1001;Kampas Rem (R);59500;102
+1001;Kampas Rem (R);59500;102
+1001;Kampas Rem (R);59500;102
+1001;Kampas Rem (R);59500;102
+1002;Kampas Rem (F);57000;203
+1002;Kampas Rem (F);57000;203
+1002;Kampas Rem (F);57000;203
+1002;Kampas Rem (F);57000;203
+1003;Aki 12 Volt;468000;42
+1003;Aki 12 Volt;468000;42
+1003;Aki 12 Volt;468000;42
+1003;Aki 12 Volt;468000;42
+1004;Busi Racing;20000;220
+1004;Busi Racing;20000;220
+1004;Busi Racing;20000;220
+1004;Busi Racing;20000;220
+1005;Gear Depan;30000;79
+1005;Gear Depan;30000;79
+1005;Gear Depan;30000;79
+1005;Gear Depan;30000;79
+1006;Gear Belakang;82000;40
+1006;Gear Belakang;82000;40
+1006;Gear Belakang;82000;40
+1006;Gear Belakang;82000;40
+1008;Minyak Rem;10000;251
+1008;Minyak Rem;10000;251
+1008;Minyak Rem;10000;251
+1008;Minyak Rem;10000;251
+1009;Oli 1300ML;68000;120
+1009;Oli 1300ML;68000;120
+1009;Oli 1300ML;68000;120
+1009;Oli 1300ML;68000;120
+1010;Oli 800ML;38000;200
+1010;Oli 800ML;38000;200
+1010;Oli 800ML;38000;200
+1010;Oli 800ML;38000;200
+1011;Filter Oli;11000;300
+1011;Filter Oli;11000;300
+1011;Filter Oli;11000;300
+1011;Filter Oli;11000;300
+1012;Piston Mesin;130000;99
+1012;Piston Mesin;130000;99
+1012;Piston Mesin;130000;99
+1012;Piston Mesin;130000;99
+1013;Tanki Bensin;350000;12
+1013;Tanki Bensin;350000;12
+1013;Tanki Bensin;350000;12
+1013;Tanki Bensin;350000;12
+1014;SC Muffler;3000000;30
+1014;SC Muffler;3000000;30
+1014;SC Muffler;3000000;30
+1014;SC Muffler;3000000;30
+1015;Knalpot Standar;1100000;21
+1015;Knalpot Standar;1100000;21
+1015;Knalpot Standar;1100000;21
+1015;Knalpot Standar;1100000;21
+1016;Set Footstep;250000;19
+1016;Set Footstep;250000;19
+1016;Set Footstep;250000;19
+1016;Set Footstep;250000;19
+1017;Gas Handgrip;17000;109
+1017;Gas Handgrip;17000;109
+1017;Gas Handgrip;17000;109
+1017;Gas Handgrip;17000;109
+1018;LH Handgrip;15000;108
+1018;LH Handgrip;15000;108
+1018;LH Handgrip;15000;108
+1018;LH Handgrip;15000;108
+1019;Bohlam Sein;26600;99
+1019;Bohlam Sein;26600;99
+1019;Bohlam Sein;26600;99
+1019;Bohlam Sein;26600;99
+1020;Bohlam Rem;38900;79
+1020;Bohlam Rem;38900;79
+1020;Bohlam Rem;38900;79
+1020;Bohlam Rem;38900;79
+1021;Seal Shock ;4500;300
+1021;Seal Shock ;4500;300
+1021;Seal Shock ;4500;300
+1021;Seal Shock ;4500;300
+1022;Kopling Stater;315000;201
+1022;Kopling Stater;315000;201
+1022;Kopling Stater;315000;201
+1022;Kopling Stater;315000;201
+1023;Lowering Kit;190000;103
+1023;Lowering Kit;190000;103
+1023;Lowering Kit;190000;103
+1023;Lowering Kit;190000;103
+1024;Sus Monoshock;470000;21
+1024;Sus Monoshock;470000;21
+1024;Sus Monoshock;470000;21
+1024;Sus Monoshock;470000;21
+0000;2;;0000;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
